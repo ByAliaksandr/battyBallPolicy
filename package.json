@@ -1,0 +1,17 @@
+{
+  "name": "battyball",
+  "description": "BattyBall is an arcade game. It is created based on Arkanoid and Breakout concept.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "arcade",
+    "game",
+    "battyball",
+    "arkanoid",
+    "breakout"
+  ],
+  "author": "Afake Game Development",
+  "license": "ISC"
+}
